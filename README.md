@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Faizan Ali.
+- 👀 I’m interested in Web Development and Machine Learning.
+- 🌱 I’m currently learning Deep Learnong.
+- 💞️ I’m looking to collaborate on FLuter Apps.
